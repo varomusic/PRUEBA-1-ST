@@ -20,3 +20,6 @@ actividad-3-propuesta-avance-3
 revisar-estacionariedad
 realizar-ajuste-de-diferenciación-en-este-caso-nos-arroja-cero-como-respuesta.
 análisis-de-serie-estacionaria-y-no-estacionaria
+actividad-4-propuesta-avance-4
+datos-en-tsa
+actividad-5-propuesta-avance-5
